@@ -1,0 +1,9 @@
+C:\Users\Korzhov Ivan\source\repos\Multicast\Multicast\bin\Debug\Multicast.exe.config
+C:\Users\Korzhov Ivan\source\repos\Multicast\Multicast\bin\Debug\Multicast.exe
+C:\Users\Korzhov Ivan\source\repos\Multicast\Multicast\bin\Debug\Multicast.pdb
+C:\Users\Korzhov Ivan\source\repos\Multicast\Multicast\obj\Debug\Multicast.Form1.resources
+C:\Users\Korzhov Ivan\source\repos\Multicast\Multicast\obj\Debug\Multicast.Properties.Resources.resources
+C:\Users\Korzhov Ivan\source\repos\Multicast\Multicast\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Korzhov Ivan\source\repos\Multicast\Multicast\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Korzhov Ivan\source\repos\Multicast\Multicast\obj\Debug\Multicast.exe
+C:\Users\Korzhov Ivan\source\repos\Multicast\Multicast\obj\Debug\Multicast.pdb

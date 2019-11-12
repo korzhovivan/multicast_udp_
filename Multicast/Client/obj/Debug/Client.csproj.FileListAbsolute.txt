@@ -1,0 +1,9 @@
+C:\Users\Korzhov Ivan\source\repos\Multicast\Client\bin\Debug\Client.exe.config
+C:\Users\Korzhov Ivan\source\repos\Multicast\Client\bin\Debug\Client.exe
+C:\Users\Korzhov Ivan\source\repos\Multicast\Client\bin\Debug\Client.pdb
+C:\Users\Korzhov Ivan\source\repos\Multicast\Client\obj\Debug\Client.Form1.resources
+C:\Users\Korzhov Ivan\source\repos\Multicast\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Korzhov Ivan\source\repos\Multicast\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Korzhov Ivan\source\repos\Multicast\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Korzhov Ivan\source\repos\Multicast\Client\obj\Debug\Client.exe
+C:\Users\Korzhov Ivan\source\repos\Multicast\Client\obj\Debug\Client.pdb
